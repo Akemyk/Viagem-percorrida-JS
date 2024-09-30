@@ -1,5 +1,5 @@
 # Viagem-percorrida-JS
-💻Exercício 7-d da Faccat com JS
+💻Exercício 7-d do Manzano com JS
 <p>Efetuar o cálculo da quantidade de litros de combustível gasta em uma viagem, utilizando um
 automóvel que faz 12 Km por litro. Para obter o cálculo, o usuário deve fornecer o tempo gasto
 (TEMPO) e a velocidade média (VELOCIDADE) durante a viagem. Desta forma, será possível obter a
